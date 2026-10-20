@@ -11,8 +11,8 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Bowbox/.github/main/profile/srcds.png" width="72" height="72" alt="srcds"><br>
-<b>Before</b> · srcds<br><br>
+<img src="https://raw.githubusercontent.com/Bowbox/.github/main/profile/srcds.png" width="72" height="72" alt="SRCDS"><br>
+<b>Before</b> · SRCDS<br><br>
 <video src="https://github.com/user-attachments/assets/612e5aae-1abd-48d6-abc5-71c88d4a6c1a" controls muted loop width="100%"></video>
 </td>
 <td width="50%" align="center" valign="top">
