@@ -49,7 +49,7 @@ It is multi-threaded, with physics on its own thread so the network never waits 
 
 `Rust` · `Source protocol 24`
 
-*Not open source yet. We'll open it up when it's ready.*
+*Source-available under the Elastic License 2.0, not published yet. Self-host it as you like; selling it as a hosted service isn't allowed.*
 
 </td>
 <td width="50%" valign="top">
