@@ -26,6 +26,10 @@ A Garry's Mod server emulator written from scratch in Rust.
 
 Real, unmodified GMod clients find it in the server browser, join `gm_construct` and play: walk around, spawn props, throw them with the physgun, drive the Jeep, climb ladders and swim.
 
+It is multi-threaded, with physics on its own thread so the network never waits on it. The physics is the part we're proudest of, and the server stays fast and light on memory.
+
+**Coming soon:** server-side anti-cheat against wallhacks.
+
 `Rust` · `Source protocol 24`
 
 *Not open source yet. We'll open it up when it's ready.*
