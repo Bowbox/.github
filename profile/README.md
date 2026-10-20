@@ -10,8 +10,14 @@
 
 <table>
 <tr>
-<th width="50%" align="center">Before<br><sub>Garry's Mod</sub></th>
-<th width="50%" align="center">After<br><sub>Bowbox</sub></th>
+<th width="50%" align="center">
+<img src="https://raw.githubusercontent.com/Bowbox/.github/main/profile/srcds.svg" width="72" height="72" alt="srcds"><br>
+Before<br><sub>srcds</sub>
+</th>
+<th width="50%" align="center">
+<img src="https://avatars.githubusercontent.com/u/200423184?s=200&v=4" width="72" height="72" alt="Bowbox"><br>
+After<br><sub>Bowbox</sub>
+</th>
 </tr>
 <tr>
 <td width="50%" valign="top">
