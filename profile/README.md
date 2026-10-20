@@ -10,25 +10,15 @@
 
 <table>
 <tr>
-<th width="50%" align="center">
-<img src="https://raw.githubusercontent.com/Bowbox/.github/main/profile/srcds.svg" width="72" height="72" alt="srcds"><br>
-Before<br><sub>srcds</sub>
-</th>
-<th width="50%" align="center">
-<img src="https://avatars.githubusercontent.com/u/200423184?s=200&v=4" width="72" height="72" alt="Bowbox"><br>
-After<br><sub>Bowbox</sub>
-</th>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
+<td width="50%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/Bowbox/.github/main/profile/srcds.png" width="72" height="72" alt="srcds"><br>
+<b>Before</b> · srcds<br><br>
 <video src="https://github.com/user-attachments/assets/612e5aae-1abd-48d6-abc5-71c88d4a6c1a" controls muted loop width="100%"></video>
-
 </td>
-<td width="50%" valign="top">
-
+<td width="50%" align="center" valign="top">
+<img src="https://avatars.githubusercontent.com/u/200423184?s=200&v=4" width="72" height="72" alt="Bowbox"><br>
+<b>After</b> · Bowbox<br><br>
 <video src="https://github.com/user-attachments/assets/cf4cf6b1-ec46-4def-91f6-69d444d2c155" controls muted loop width="100%"></video>
-
 </td>
 </tr>
 </table>
