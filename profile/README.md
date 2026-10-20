@@ -1,13 +1,3 @@
-
-### Bowbox
-https://github.com/user-attachments/assets/cf4cf6b1-ec46-4def-91f6-69d444d2c155
-
-
-
-
-### Garry's Mod
-https://github.com/user-attachments/assets/612e5aae-1abd-48d6-abc5-71c88d4a6c1a
-
 <div align="center">
 
 # Bowbox
@@ -15,6 +5,27 @@ https://github.com/user-attachments/assets/612e5aae-1abd-48d6-abc5-71c88d4a6c1a
 **We make things for Valve games, and take them apart to see how they work.**
 
 </div>
+
+<br>
+
+<table>
+<tr>
+<th width="50%" align="center">Before<br><sub>Garry's Mod</sub></th>
+<th width="50%" align="center">After<br><sub>Bowbox</sub></th>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<video src="https://github.com/user-attachments/assets/612e5aae-1abd-48d6-abc5-71c88d4a6c1a" controls muted loop width="100%"></video>
+
+</td>
+<td width="50%" valign="top">
+
+<video src="https://github.com/user-attachments/assets/cf4cf6b1-ec46-4def-91f6-69d444d2c155" controls muted loop width="100%"></video>
+
+</td>
+</tr>
+</table>
 
 <br>
 
